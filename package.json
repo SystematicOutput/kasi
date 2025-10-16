@@ -27,5 +27,8 @@
     "nodemon": "^3.1.3",
     "typescript": "^5.4.5",
     "vite": "^5.2.13"
-  }
+  },
+  "publishConfig": {
+  "@Matemba1Ngobeni:registry": "https://npm.pkg.github.com"
+}
 }
